@@ -1,3 +1,4 @@
+local-start
 node_modules
 .DS_Store*
 .hubot_history
